@@ -5,7 +5,10 @@ NuMicro ARM7/ARM9 Family Resource
 - [Linux BSP](https://github.com/OpenNuvoton/N32905_Linux_BSP)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N32905_NonOS_BSP)
 
-**2. NUC970**
+**2. N32901/N32903**
+- [Non-OS BSP](https://github.com/OpenNuvoton/N32901-3_NonOS_BSP)
+
+**3. NUC970**
 - [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [U-boot v2016.11](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [U-boot v201304RC2](https://github.com/OpenNuvoton/NUC970_U-Boot)
