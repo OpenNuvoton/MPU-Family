@@ -16,4 +16,5 @@ NuMicro ARM7/ARM9 Family Resource
 - [Linux Applications](https://github.com/OpenNuvoton/NUC970_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/NUC970_NonOS_BSP)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
+- [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
 
