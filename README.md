@@ -24,4 +24,4 @@ ARM7/ARM9 Family Resource
 
 **4. NUC980**
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
-- [Non-OS BSP] (https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
+- [Non-OS BSP](https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
