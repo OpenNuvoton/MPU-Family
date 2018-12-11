@@ -28,6 +28,7 @@ ARM7/ARM9 Family Resource
 - [Linux-4.4.y](https://github.com/OpenNuvoton/NUC980-linux-4.4.y)
 - [Linux Applications](https://github.com/OpenNuvoton/NUC980_Linux_Applications)
 - [NuWriter](https://github.com/OpenNuvoton/NUC980_NuWriter)
+- [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC980_NuWriter_CMD)
 - [Non-OS BSP](https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
 
 **6. N32926**
