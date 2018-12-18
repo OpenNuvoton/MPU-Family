@@ -34,3 +34,9 @@ ARM7/ARM9 Family Resource
 **6. N32926**
 - [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N32926_NonOS_BSP)
+
+**7. N9H20**
+- [Non-OS BSP](https://github.com/OpenNuvoton/N9H20_emWin_NonOS)
+
+**8. N9H26**
+- [Non-OS BSP](https://github.com/OpenNuvoton/N9H26_emWin_NonOS)
