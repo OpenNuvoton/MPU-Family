@@ -30,6 +30,7 @@ ARM7/ARM9 Family Resource
 - [NuWriter](https://github.com/OpenNuvoton/NUC980_NuWriter)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC980_NuWriter_CMD)
 - [Non-OS BSP](https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
+- [SD Writer](https://github.com/OpenNuvoton/NUC980_SDWriter)
 
 **6. N32926**
 - [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
