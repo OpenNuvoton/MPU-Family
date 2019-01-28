@@ -3,6 +3,7 @@ ARM7/ARM9 Family Resource
 
 **1. N32905**
 - [Linux BSP](https://github.com/OpenNuvoton/N32905_Linux_BSP)
+- [Linux Applications](https://github.com/OpenNuvoton/N32905_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N32905_NonOS_BSP)
 
 **2. N32901/N32903**
@@ -34,10 +35,15 @@ ARM7/ARM9 Family Resource
 
 **6. N32926**
 - [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
+- [Linux Applications](https://github.com/OpenNuvoton/N32926_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N32926_NonOS_BSP)
 
 **7. N9H20**
+- [Linux BSP](https://github.com/OpenNuvoton/N32905_Linux_BSP)
+- [Linux Applications](https://github.com/OpenNuvoton/N32905_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H20_emWin_NonOS)
 
 **8. N9H26**
+- [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
+- [Linux Applications](https://github.com/OpenNuvoton/N32926_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H26_emWin_NonOS)
