@@ -20,9 +20,13 @@ ARM7/ARM9 Family Resource
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
 
 **4. N9H30**
+- [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
-- [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
+- [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
+- [Linux Applications](https://github.com/OpenNuvoton/NUC970_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H30_emWin_NonOS)
+- [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
+- [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
 
 **5. NUC980**
 - [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
