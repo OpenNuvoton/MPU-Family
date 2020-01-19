@@ -1,4 +1,4 @@
-ARM7/ARM9 Family Resource
+ARM7/ARM9 Family Resources
 ------------------------
 
 **1. N32905**
