@@ -18,6 +18,7 @@ ARM7/ARM9 Family Resources
 - [Non-OS BSP](https://github.com/OpenNuvoton/NUC970_NonOS_BSP)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
+- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205)
 
 **4. N9H30**
 - [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
@@ -27,6 +28,7 @@ ARM7/ARM9 Family Resources
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H30_emWin_NonOS)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
+- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205)
 
 **5. NUC980**
 - [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
@@ -37,6 +39,7 @@ ARM7/ARM9 Family Resources
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC980_NuWriter_CMD)
 - [Non-OS BSP](https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
 - [SD Writer](https://github.com/OpenNuvoton/NUC980_SDWriter)
+- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205)
 
 **6. N32926**
 - [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
