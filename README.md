@@ -1,4 +1,4 @@
-ARM7/ARM9 Family Resources
+ARM9/Cortex-A35 Resources
 ------------------------
 
 **1. N32905**
@@ -61,3 +61,12 @@ ARM7/ARM9 Family Resources
 - [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
 - [Linux Applications](https://github.com/OpenNuvoton/N32926_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H26_emWin_NonOS)
+
+**9. MA35D1**
+- [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
+- [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
+- [OP-TEE](https://github.com/OpenNuvoton/MA35D1_optee_os-v3.9.0)
+- [U-Boot](https://github.com/OpenNuvoton/MA35D1_u-boot-v2020.07)
+- [Linux](https://github.com/OpenNuvoton/MA35D1_linux-5.4.y)
+- [RTP](https://github.com/OpenNuvoton/MA35D1_RTP_BSP)
+- [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
