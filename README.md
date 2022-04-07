@@ -74,4 +74,3 @@ ARM9/Cortex-A35 Resources
 - [RTP](https://github.com/OpenNuvoton/MA35D1_RTP_BSP)
 - [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 - [Docker](https://github.com/OpenNuvoton/MA35D1_Docker_Script)
-- [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
