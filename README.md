@@ -73,5 +73,6 @@ ARM9/Cortex-A35 Resources
 - [Linux-5.4.y](https://github.com/OpenNuvoton/MA35D1_linux-5.4.y)
 - [Linux Applications](https://github.com/OpenNuvoton/MA35D1_Linux_Applications)
 - [RTP](https://github.com/OpenNuvoton/MA35D1_RTP_BSP)
+- [OpenWrt](https://github.com/OpenNuvoton/MA35D1_OpenWrt)
 - [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 - [Docker](https://github.com/OpenNuvoton/MA35D1_Docker_Script)
