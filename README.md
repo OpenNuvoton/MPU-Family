@@ -35,9 +35,11 @@ ARM9/Cortex-A35 Resources
   - password: user
 
 **5. NUC980**
-- [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot (for linux-4.4.y)](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot (for linux-5.10.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [Linux-4.4.y](https://github.com/OpenNuvoton/NUC980-linux-4.4.y)
+- [Linux-5.10.y](https://github.com/OpenNuvoton/NUC980-linux-5.10.y)
 - [Linux Applications](https://github.com/OpenNuvoton/NUC980_Linux_Applications)
 - [OpenWrt](https://github.com/OpenNuvoton/NUC980-OpenWrt)
 - [NuWriter](https://github.com/OpenNuvoton/NUC980_NuWriter)
