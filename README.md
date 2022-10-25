@@ -79,3 +79,6 @@ ARM9/Cortex-A35 Resources
 - [OpenWrt](https://github.com/OpenNuvoton/MA35D1_OpenWrt)
 - [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 - [Docker](https://github.com/OpenNuvoton/MA35D1_Docker_Script)
+- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW182022101516122042)
+  - username: user
+  - password: user
