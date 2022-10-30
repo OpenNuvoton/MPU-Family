@@ -74,6 +74,7 @@ ARM9/Cortex-A35 Resources
 - [OP-TEE](https://github.com/OpenNuvoton/MA35D1_optee_os-v3.9.0)
 - [U-Boot](https://github.com/OpenNuvoton/MA35D1_u-boot-v2020.07)
 - [Linux-5.4.y](https://github.com/OpenNuvoton/MA35D1_linux-5.4.y)
+- [Linux-5.10.y](https://github.com/OpenNuvoton/MA35D1_linux-5.10.y)
 - [Linux Applications](https://github.com/OpenNuvoton/MA35D1_Linux_Applications)
 - [RTP](https://github.com/OpenNuvoton/MA35D1_RTP_BSP)
 - [OpenWrt](https://github.com/OpenNuvoton/MA35D1_OpenWrt)
