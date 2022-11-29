@@ -8,7 +8,7 @@ ARM9/Cortex-A35 Resources
 - [Non-OS Tool](https://github.com/OpenNuvoton/N32905_NonOS_Tool)
 
 **2. N32901/N32903**
-- [Non-OS BSP](https://github.com/OpenNuvoton/N32901-3_NonOS_BSP)
+- [Non-OS BSP](https://github.com/OpenNuvoton/N32905_NonOS_BSP)
 
 **3. NUC970**
 - [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
