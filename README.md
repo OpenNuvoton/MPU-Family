@@ -11,9 +11,11 @@ ARM9/Cortex-A35 Resources
 - [Non-OS BSP](https://github.com/OpenNuvoton/N32905_NonOS_BSP)
 
 **3. NUC970**
-- [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot (for linux-5.10.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
+- [Linux-5.10.y](https://github.com/OpenNuvoton/NUC970-linux-5.10.y)
 - [Linux Applications](https://github.com/OpenNuvoton/NUC970_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/NUC970_NonOS_BSP)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
@@ -23,9 +25,11 @@ ARM9/Cortex-A35 Resources
   - password: user
 
 **4. N9H30**
-- [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot (for linux-5.10.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
+- [Linux-5.10.y](https://github.com/OpenNuvoton/NUC970-linux-5.10.y)
 - [Linux Applications](https://github.com/OpenNuvoton/NUC970_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H30_NonOS)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
