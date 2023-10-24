@@ -79,6 +79,7 @@ ARM9/Cortex-A35 Resources
 - [U-Boot](https://github.com/OpenNuvoton/MA35D1_u-boot-v2020.07)
 - [Linux-5.10.y](https://github.com/OpenNuvoton/MA35D1_linux-5.10.y)
 - [Linux Applications](https://github.com/OpenNuvoton/MA35D1_Linux_Applications)
+- [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
 - [RTP](https://github.com/OpenNuvoton/MA35D1_RTP_BSP)
 - [OpenWrt-22.03](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-22.03)
 - [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
