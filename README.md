@@ -20,6 +20,7 @@
 </br>
 
 ## MA35H0
+* [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
 * [Buildroot](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 * [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
 * [OP-TEE](https://github.com/OpenNuvoton/MA35D1_optee_os-v3.9.0)
