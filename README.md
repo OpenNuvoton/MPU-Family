@@ -70,7 +70,7 @@
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H30_NonOS)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
-- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br?
+- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
     username: nuvoton </br>
     password: user
 </br>
@@ -102,7 +102,7 @@
 - [NuWriter](https://github.com/OpenNuvoton/NUC980_NuWriter)
 - [NuCWriter](https://github.com/OpenNuvoton/NUC980_NuCWriter.git)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC980_NuWriter_CMD)
-- [Non-OS BSP](https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
+- [Non-OS BSP (FreeRTOS kernel included)](https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
 - [SD Writer](https://github.com/OpenNuvoton/NUC980_SDWriter)
 - [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
     username: nuvoton </br>
