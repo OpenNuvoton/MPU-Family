@@ -28,6 +28,7 @@
 * [Linux-5.10.y](https://github.com/OpenNuvoton/MA35D1_linux-5.10.y)
 * [Linux Applications](https://github.com/OpenNuvoton/MA35D1_Linux_Applications)
 * [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
+* [Non-OS BSP](https://github.com/OpenNuvoton/MA35H0_NonOS_BSP)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 </br>
 
