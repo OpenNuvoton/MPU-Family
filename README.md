@@ -60,6 +60,7 @@
 * [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
 * [Linux Applications](https://github.com/OpenNuvoton/N32926_Linux_Applications)
 * [Non-OS BSP](https://github.com/OpenNuvoton/N32926_NonOS_BSP)
+* [Non-OS Tool](https://github.com/OpenNuvoton/N32926_NonOS_Tool)
 </br>
 
 ## N9H20
