@@ -11,7 +11,6 @@
 * [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
 * [Non-OS BSP](https://github.com/OpenNuvoton/MA35D0_NonOS_BSP)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
-</br>
 
 ## MA35D1
 * [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
@@ -30,7 +29,6 @@
 * [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW182022101516122042) </br>
      username: user </br>
      password: user </br>
-</br>
 
 ## MA35H0
 * [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
@@ -43,37 +41,31 @@
 * [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
 * [Non-OS BSP](https://github.com/OpenNuvoton/MA35H0_NonOS_BSP)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
-</br>
 
 ## N32901/N32903
 * [Non-OS BSP](https://github.com/OpenNuvoton/N32905_NonOS_BSP)
-</br>
 
 ## N32905
 * [Linux BSP](https://github.com/OpenNuvoton/N32905_Linux_BSP)
 * [Linux Applications](https://github.com/OpenNuvoton/N32905_Linux_Applications)
 * [Non-OS BSP](https://github.com/OpenNuvoton/N32905_NonOS_BSP)
 * [Non-OS Tool](https://github.com/OpenNuvoton/N32905_NonOS_Tool)
-</br>
 
 ## N32926
 * [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
 * [Linux Applications](https://github.com/OpenNuvoton/N32926_Linux_Applications)
 * [Non-OS BSP](https://github.com/OpenNuvoton/N32926_NonOS_BSP)
 * [Non-OS Tool](https://github.com/OpenNuvoton/N32926_NonOS_Tool)
-</br>
 
 ## N9H20
 - [Linux BSP](https://github.com/OpenNuvoton/N32905_Linux_BSP)
 - [Linux Applications](https://github.com/OpenNuvoton/N32905_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H20_emWin_NonOS)
-</br>
 
 ## N9H26
 - [Linux BSP](https://github.com/OpenNuvoton/N32926_Linux_BSP)
 - [Linux Applications](https://github.com/OpenNuvoton/N32926_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H26_emWin_NonOS)
-</br>
 
 ## N9H30
 - [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
@@ -88,7 +80,10 @@
 - [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
     username: nuvoton </br>
     password: user
-</br>
+
+## N9H31
+- [Non-OS BSP](https://github.com/OpenNuvoton/N9H3_NonOS)
+- [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 
 ## NUC970
 - [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
@@ -103,7 +98,6 @@
 - [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
     username: nuvoton </br>
     password: user </br>
-</br>
 
 ## NUC980
 - [Buildroot (for linux-4.4.y)](https://github.com/OpenNuvoton/NUC970_Buildroot)
@@ -122,5 +116,4 @@
 - [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
     username: nuvoton </br>
     password: user </br>
-</br>
 
