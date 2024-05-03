@@ -82,7 +82,7 @@
     password: user
 
 ## N9H31
-- [Non-OS BSP](https://github.com/OpenNuvoton/N9H3_NonOS)
+- [Non-OS BSP](https://github.com/OpenNuvoton/N9H31_NonOS)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 
 ## NUC970
