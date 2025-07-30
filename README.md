@@ -1,18 +1,21 @@
 # ARM9/Cortex-A35 Resources
 
-## MA35D0
-* [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
-* [Buildroot_2024](https://github.com/OpenNuvoton/buildroot_2024)
-* [Buildroot_2021](https://github.com/OpenNuvoton/MA35D1_Buildroot)
-* [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
-* [optee-v4.2](https://github.com/OpenNuvoton/optee_os_ma35)
-* [optee-v3.9](https://github.com/OpenNuvoton/MA35D1_optee_os-v3.9.0)
-* [U-Boot](https://github.com/OpenNuvoton/MA35D1_u-boot-v2020.07)
-* [Linux-5.10.y](https://github.com/OpenNuvoton/MA35D1_linux-5.10.y)
-* [Linux Applications](https://github.com/OpenNuvoton/MA35D1_Linux_Applications)
-* [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
-* [Non-OS BSP](https://github.com/OpenNuvoton/MA35D0_NonOS_BSP)
-* [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
+## Linux Development Environment for MA35/NUC980/N9H30 Platforms
+* [MA35 Series VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW182022101516122042) </br>
+     username: user </br>
+     password: user </br>
+
+- [NUC980 VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
+    username: nuvoton </br>
+    password: user </br>
+
+- [NUC970 VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
+    username: nuvoton </br>
+    password: user </br>
+
+- [N9H30 VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
+    username: nuvoton </br>
+    password: user
 
 ## MA35D1
 * [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
@@ -30,9 +33,20 @@
 * [OpenWrt-22.03](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-22.03)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 * [Docker](https://github.com/OpenNuvoton/MA35D1_Docker_Script)
-* [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW182022101516122042) </br>
-     username: user </br>
-     password: user </br>
+
+## MA35D0
+* [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
+* [Buildroot_2024](https://github.com/OpenNuvoton/buildroot_2024)
+* [Buildroot_2021](https://github.com/OpenNuvoton/MA35D1_Buildroot)
+* [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
+* [optee-v4.2](https://github.com/OpenNuvoton/optee_os_ma35)
+* [optee-v3.9](https://github.com/OpenNuvoton/MA35D1_optee_os-v3.9.0)
+* [U-Boot](https://github.com/OpenNuvoton/MA35D1_u-boot-v2020.07)
+* [Linux-5.10.y](https://github.com/OpenNuvoton/MA35D1_linux-5.10.y)
+* [Linux Applications](https://github.com/OpenNuvoton/MA35D1_Linux_Applications)
+* [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
+* [Non-OS BSP](https://github.com/OpenNuvoton/MA35D0_NonOS_BSP)
+* [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 
 ## MA35H0
 * [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
@@ -83,9 +97,6 @@
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H30_NonOS)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
-- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
-    username: nuvoton </br>
-    password: user
 
 ## N9H31
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H31_NonOS)
@@ -101,9 +112,6 @@
 - [Non-OS BSP](https://github.com/OpenNuvoton/NUC970_NonOS_BSP)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
-- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
-    username: nuvoton </br>
-    password: user </br>
 
 ## NUC980
 - [Buildroot (for linux-4.4.y)](https://github.com/OpenNuvoton/NUC970_Buildroot)
@@ -119,7 +127,4 @@
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC980_NuWriter_CMD)
 - [Non-OS BSP (FreeRTOS kernel included)](https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
 - [SD Writer](https://github.com/OpenNuvoton/NUC980_SDWriter)
-- [VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
-    username: nuvoton </br>
-    password: user </br>
 
