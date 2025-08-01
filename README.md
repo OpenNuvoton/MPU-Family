@@ -1,21 +1,10 @@
-# ARM9/Cortex-A35 Resources
+# Cortex-A35/ARM9 Resources
 
-## Linux Development Environment for MA35/NUC980/N9H30 Platforms
-* [MA35 Series VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW182022101516122042) </br>
+## </br>Linux Development Environment for MPU Platforms
+* [•	VMWare Linux develop environment_Ubuntu_20.04](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW182022101516122042) </br>
      username: user </br>
      password: user </br>
-
-- [NUC980 VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
-    username: nuvoton </br>
-    password: user </br>
-
-- [NUC970 VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
-    username: nuvoton </br>
-    password: user </br>
-
-- [N9H30 VMWare Linux develop environment](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW1320200406183205) </br>
-    username: nuvoton </br>
-    password: user
+     </br>
 
 ## MA35D1
 * [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
