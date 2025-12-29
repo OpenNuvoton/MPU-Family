@@ -1,13 +1,14 @@
 # Cortex-A35/ARM9 Resources
 
 ## </br>Linux Development Environment for MPU Platforms
-* [•	VMWare Linux develop environment_Ubuntu_20.04](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW182022101516122042) </br>
+* [VMWare Linux develop environment_Ubuntu_20.04](https://www.nuvoton.com/resource-download.jsp?tp_GUID=SW182022101516122042) </br>
      username: user </br>
      password: user </br>
      </br>
 
 ## MA35D1
-* [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
+* [Yocto-5.0](https://github.com/OpenNuvoton/MA35D1_yocto-v5.0)
+* [Yocto-3.13](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
 * [Buildroot_2024](https://github.com/OpenNuvoton/buildroot_2024)
 * [Buildroot_2021](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 * [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
@@ -25,7 +26,8 @@
 * [Docker](https://github.com/OpenNuvoton/MA35D1_Docker_Script)
 
 ## MA35D0
-* [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
+* [Yocto-5.0](https://github.com/OpenNuvoton/MA35D1_yocto-v5.0)
+* [Yocto-3.13](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
 * [Buildroot_2024](https://github.com/OpenNuvoton/buildroot_2024)
 * [Buildroot_2021](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 * [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
@@ -40,7 +42,8 @@
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 
 ## MA35H0
-* [Yocto](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
+* [Yocto-5.0](https://github.com/OpenNuvoton/MA35D1_yocto-v5.0)
+* [Yocto-3.13](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
 * [Buildroot_2024](https://github.com/OpenNuvoton/buildroot_2024)
 * [Buildroot_2021](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 * [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
