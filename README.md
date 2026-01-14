@@ -21,6 +21,7 @@
 * [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
 * [RTP](https://github.com/OpenNuvoton/MA35D1_RTP_BSP)
 * [Non-OS BSP](https://github.com/OpenNuvoton/MA35D1_NonOS_BSP)
+* [OpenWrt-24.10](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-24.10)
 * [OpenWrt-22.03](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-22.03)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 * [Docker](https://github.com/OpenNuvoton/MA35D1_Docker_Script)
