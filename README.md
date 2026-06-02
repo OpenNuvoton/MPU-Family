@@ -84,11 +84,11 @@
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H26_emWin_NonOS)
 
 ## N9H30
-- [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [Buildroot (for linux-5.10.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
+- [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
-- [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
 - [Linux-5.10.y](https://github.com/OpenNuvoton/NUC970-linux-5.10.y)
+- [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
 - [Linux Applications](https://github.com/OpenNuvoton/NUC970_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H30_NonOS)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
@@ -99,8 +99,8 @@
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 
 ## NUC970
-- [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [Buildroot (for linux-5.10.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
+- [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
 - [Linux-5.10.y](https://github.com/OpenNuvoton/NUC970-linux-5.10.y)
@@ -110,15 +110,15 @@
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
 
 ## NUC980
+- [Buildroot (for linux-5.10.y & linux-6.6.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 - [Buildroot (for linux-4.4.y)](https://github.com/OpenNuvoton/NUC970_Buildroot)
-- [Buildroot (for linux-5.10.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
-- [Linux-4.4.y](https://github.com/OpenNuvoton/NUC980-linux-4.4.y)
-- [Linux-5.10.y](https://github.com/OpenNuvoton/NUC980-linux-5.10.y)
 - [Linux-6.6.y](https://github.com/OpenNuvoton/NUC980-linux-6.6.y)
+- [Linux-5.10.y](https://github.com/OpenNuvoton/NUC980-linux-5.10.y)
+- [Linux-4.4.y](https://github.com/OpenNuvoton/NUC980-linux-4.4.y)
 - [Linux Applications](https://github.com/OpenNuvoton/NUC980_Linux_Applications)
-- [OpenWrt-17.01](https://github.com/OpenNuvoton/NUC980-OpenWrt)
 - [OpenWrt-22.03](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-22.03)
+- [OpenWrt-17.01](https://github.com/OpenNuvoton/NUC980-OpenWrt)
 - [NuWriter](https://github.com/OpenNuvoton/NUC980_NuWriter)
 - [NuCWriter](https://github.com/OpenNuvoton/NUC980_NuCWriter.git)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC980_NuWriter_CMD)
