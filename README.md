@@ -115,6 +115,7 @@
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [Linux-4.4.y](https://github.com/OpenNuvoton/NUC980-linux-4.4.y)
 - [Linux-5.10.y](https://github.com/OpenNuvoton/NUC980-linux-5.10.y)
+- [Linux-6.6.y](https://github.com/OpenNuvoton/NUC980-linux-6.6.y)
 - [Linux Applications](https://github.com/OpenNuvoton/NUC980_Linux_Applications)
 - [OpenWrt-17.01](https://github.com/OpenNuvoton/NUC980-OpenWrt)
 - [OpenWrt-22.03](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-22.03)
