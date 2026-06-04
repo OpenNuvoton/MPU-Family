@@ -21,6 +21,7 @@
 * [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
 * [RTP](https://github.com/OpenNuvoton/MA35D1_RTP_BSP)
 * [Non-OS BSP](https://github.com/OpenNuvoton/MA35D1_NonOS_BSP)
+* [RT-Thread](https://github.com/OpenNuvoton/sdk-bsp-numaker-hmi-ma35d1)
 * [OpenWrt-24.10](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-24.10)
 * [OpenWrt-22.03](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-22.03)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
@@ -40,6 +41,7 @@
 * [Linux Applications](https://github.com/OpenNuvoton/MA35D1_Linux_Applications)
 * [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
 * [Non-OS BSP](https://github.com/OpenNuvoton/MA35D0_NonOS_BSP)
+* [RT-Thread](https://github.com/OpenNuvoton/sdk-bsp-numaker-iot-ma35d0)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 
 ## MA35H0
@@ -56,6 +58,7 @@
 * [Linux Applications](https://github.com/OpenNuvoton/MA35D1_Linux_Applications)
 * [libjpeg-turbo-vc8000](https://github.com/OpenNuvoton/libjpeg-turbo-vc8000)
 * [Non-OS BSP](https://github.com/OpenNuvoton/MA35H0_NonOS_BSP)
+* [RT-Thread](https://github.com/OpenNuvoton/sdk-bsp-numaker-hmi-ma35h0)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 
 ## N32901/N32903
@@ -91,6 +94,7 @@
 - [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
 - [Linux Applications](https://github.com/OpenNuvoton/NUC970_Linux_Applications)
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H30_NonOS)
+- [RT-Thread](https://github.com/OpenNuvoton/sdk-bsp-nk-n9h30)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
 
@@ -122,6 +126,7 @@
 - [NuWriter](https://github.com/OpenNuvoton/NUC980_NuWriter)
 - [NuCWriter](https://github.com/OpenNuvoton/NUC980_NuCWriter.git)
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC980_NuWriter_CMD)
+- [RT-Thread](https://github.com/OpenNuvoton/sdk-bsp-nk-980iotg2d)
 - [Non-OS BSP (FreeRTOS kernel included)](https://github.com/OpenNuvoton/NUC980_NonOS_BSP)
 - [SD Writer](https://github.com/OpenNuvoton/NUC980_SDWriter)
 
