@@ -8,7 +8,7 @@
 
 ## MA35D1
 * [Yocto-5.0](https://github.com/OpenNuvoton/MA35D1_yocto-v5.0)
-* [Yocto-3.13](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
+* [Yocto-3.1](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
 * [Buildroot_2024](https://github.com/OpenNuvoton/buildroot_2024)
 * [Buildroot_2021](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 * [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
@@ -29,7 +29,7 @@
 
 ## MA35D0
 * [Yocto-5.0](https://github.com/OpenNuvoton/MA35D1_yocto-v5.0)
-* [Yocto-3.13](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
+* [Yocto-3.1](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
 * [Buildroot_2024](https://github.com/OpenNuvoton/buildroot_2024)
 * [Buildroot_2021](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 * [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
@@ -46,7 +46,7 @@
 
 ## MA35H0
 * [Yocto-5.0](https://github.com/OpenNuvoton/MA35D1_yocto-v5.0)
-* [Yocto-3.13](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
+* [Yocto-3.1](https://github.com/OpenNuvoton/MA35D1_Yocto-v3.1.3)
 * [Buildroot_2024](https://github.com/OpenNuvoton/buildroot_2024)
 * [Buildroot_2021](https://github.com/OpenNuvoton/MA35D1_Buildroot)
 * [TF-A](https://github.com/OpenNuvoton/MA35D1_arm-trusted-firmware-v2.3)
