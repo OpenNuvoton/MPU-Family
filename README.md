@@ -91,8 +91,9 @@
 - [Non-OS BSP](https://github.com/OpenNuvoton/N9H26_emWin_NonOS)
 
 ## N9H30
-- [Buildroot (for linux-5.10.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
-- [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot_2024 (for linux-5.10)](https://github.com/OpenNuvoton/buildroot_2024)
+- [Buildroot_2021 (for linux-5.10)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
+- [Buildroot (for linux-3.10)](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [Linux-5.10.y](https://github.com/OpenNuvoton/NUC970-linux-5.10.y)
 - [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
@@ -107,8 +108,9 @@
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 
 ## NUC970
-- [Buildroot (for linux-5.10.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
-- [Buildroot (for linux-3.10.x)](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot_2024 (for linux-5.10)](https://github.com/OpenNuvoton/buildroot_2024)
+- [Buildroot_2021 (for linux-5.10)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
+- [Buildroot (for linux-3.10)](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [Linux-3.10.x](https://github.com/OpenNuvoton/NUC970_Linux_Kernel)
 - [Linux-5.10.y](https://github.com/OpenNuvoton/NUC970-linux-5.10.y)
@@ -118,8 +120,9 @@
 - [NuWriter Linux CMD](https://github.com/OpenNuvoton/NUC970_NuWriter_CMD)
 
 ## NUC980
-- [Buildroot (for linux-5.10.y & linux-6.6.y)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
-- [Buildroot (for linux-4.4.y)](https://github.com/OpenNuvoton/NUC970_Buildroot)
+- [Buildroot_2024 (for linux-5.10 & 6.6)](https://github.com/OpenNuvoton/buildroot_2024)
+- [Buildroot_2021 (for linux-5.10)](https://github.com/OpenNuvoton/MA35D1_Buildroot)
+- [Buildroot (for linux-4.4)](https://github.com/OpenNuvoton/NUC970_Buildroot)
 - [U-boot](https://github.com/OpenNuvoton/NUC970_U-Boot_v2016.11)
 - [Linux-6.6.y](https://github.com/OpenNuvoton/NUC980-linux-6.6.y)
 - [Linux-5.10.y](https://github.com/OpenNuvoton/NUC980-linux-5.10.y)
