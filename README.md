@@ -29,6 +29,7 @@
 * [OpenWrt-22.03](https://github.com/OpenNuvoton/Nuvoton-OpenWrt-22.03)
 * [NuWriter](https://github.com/OpenNuvoton/MA35D1_NuWriter)
 * [Docker](https://github.com/OpenNuvoton/MA35D1_Docker_Script)
+* [Linux kernel upstream status](MA35D1-linux-kernel-upstream-status.md)
 
 ## MA35D0
 * [Yocto-5.0](https://github.com/OpenNuvoton/MA35D1_yocto-v5.0)
